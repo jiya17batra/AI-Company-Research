@@ -1,5 +1,7 @@
 # AI Company Research Assistant
 
+🔗 **Live Demo:** https://ai-company-research-aame3ra1t-jiya17batra-2918s-projects.vercel.app/
+
 An AI-powered app that researches any company — by name or website URL — by crawling
 its site, searching the public web via **Serper.dev**, analyzing everything with an
 **OpenRouter**-hosted AI model, identifying competitors, and generating a downloadable,
@@ -11,6 +13,8 @@ ChatGPT-style interface, ready to deploy to Vercel/Netlify/Cloudflare.
 > iteratively rather than accepted blindly.
 
 ---
+
+
 
 ## 1. Feature checklist (maps to the assignment spec)
 
